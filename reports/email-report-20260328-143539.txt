@@ -1,0 +1,25 @@
+To: qa@example.com
+Subject: Resend check
+
+Booking Agent Report
+
+Generated at: 2026-03-28 14:35:39
+
+Summary
+- Total: 11
+- Confirmed: 8
+- Pending: 0
+- Conflicts: 3
+
+Bookings
+- conflict check updated ui-check | 2026-03-29 10:30 AM | 30 min | confirmed
+- Booking via AI assistant | 2026-03-29 03:30 PM | 30 min | confirmed
+- Pranav Goankar | 2026-03-29 04:00 PM | 30 min | confirmed
+- Edit Test | 2026-03-30 10:00 AM | 30 min | confirmed
+- Daily stand-up | 2026-03-30 02:00 PM | 1 hr | confirmed
+- Booking via AI assistant | 2026-03-31 09:30 AM | 1 hr | confirmed
+- Edit Target Renamed | 2026-03-31 02:00 PM | 30 min | confirmed
+- Booking via AI assistant | 2026-03-31 05:00 PM | 30 min | confirmed
+- conflict-calendar-check | 2026-03-30 10:00 AM | 30 min | conflict
+- Booking via AI assistant | 2026-03-29 03:35 PM | 30 min | conflict
+- force conflict test | 2026-03-29 10:00 AM | 30 min | conflict

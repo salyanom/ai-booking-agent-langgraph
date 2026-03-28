@@ -1,0 +1,12 @@
+To: qa@example.com
+Subject: Meeting Report: Daily stand-up
+
+Booking Agent Meeting Report
+
+Generated at: 2026-03-28 13:36:20
+
+Title: Daily stand-up
+Date: 2026-03-30
+Time: 02:00 PM
+Duration: 1 hr
+Status: confirmed
