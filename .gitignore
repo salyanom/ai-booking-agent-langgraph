@@ -7,6 +7,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
 
 # Node
 node_modules/
@@ -18,6 +23,11 @@ build/
 *.sqlite3
 
 # Env variables
+
+# DB
+*.db
+
+# Environment
 .env
 .env.*
 
